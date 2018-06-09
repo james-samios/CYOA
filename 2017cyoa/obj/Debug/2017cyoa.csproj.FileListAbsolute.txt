@@ -1,0 +1,10 @@
+C:\Users\p.howse\AppData\Local\Temporary Projects\2017cyoa\bin\Debug\2017cyoa.exe.config
+\\mac\home\Documents\Visual Studio 2015\Projects\2017cyoa\2017cyoa\bin\Debug\2017cyoa.exe.config
+\\mac\home\Documents\Visual Studio 2015\Projects\2017cyoa\2017cyoa\bin\Debug\2017cyoa.exe
+\\mac\home\Documents\Visual Studio 2015\Projects\2017cyoa\2017cyoa\bin\Debug\2017cyoa.pdb
+\\mac\home\Documents\Visual Studio 2015\Projects\2017cyoa\2017cyoa\obj\Debug\2017cyoa.csprojResolveAssemblyReference.cache
+\\mac\home\Documents\Visual Studio 2015\Projects\2017cyoa\2017cyoa\obj\Debug\_2017cyoa.Form1.resources
+\\mac\home\Documents\Visual Studio 2015\Projects\2017cyoa\2017cyoa\obj\Debug\_2017cyoa.Properties.Resources.resources
+\\mac\home\Documents\Visual Studio 2015\Projects\2017cyoa\2017cyoa\obj\Debug\2017cyoa.csproj.GenerateResource.Cache
+\\mac\home\Documents\Visual Studio 2015\Projects\2017cyoa\2017cyoa\obj\Debug\2017cyoa.exe
+\\mac\home\Documents\Visual Studio 2015\Projects\2017cyoa\2017cyoa\obj\Debug\2017cyoa.pdb

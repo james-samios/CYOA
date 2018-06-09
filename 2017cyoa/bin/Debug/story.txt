@@ -1,0 +1,2 @@
+0|You are in a dark room. There is a table in front of you. A cat sits on the table.|1|Pat the cat|2|Feed the cat|3|Leave the room
+1|You are still in a dark room, I ignored you previously. The cat is annoyed with you.|3|Pat the dog|4|Find evidence of dog|5|There is no dog
