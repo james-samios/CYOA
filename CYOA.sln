@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2017cyoa", "2017cyoa\2017cyoa.csproj", "{CDE0409A-6773-43E6-91B6-74A0257569A2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CYOA", "2017cyoa\CYOA.csproj", "{CDE0409A-6773-43E6-91B6-74A0257569A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99514D12-3181-4FAF-BA3B-96137A4F39EA}
 	EndGlobalSection
 EndGlobal

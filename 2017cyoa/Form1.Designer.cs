@@ -38,13 +38,13 @@
             // 
             this.lblStory.Location = new System.Drawing.Point(12, 9);
             this.lblStory.Name = "lblStory";
-            this.lblStory.Size = new System.Drawing.Size(389, 314);
+            this.lblStory.Size = new System.Drawing.Size(389, 163);
             this.lblStory.TabIndex = 0;
             this.lblStory.Text = "label1";
             // 
             // btn1
             // 
-            this.btn1.Location = new System.Drawing.Point(15, 326);
+            this.btn1.Location = new System.Drawing.Point(12, 326);
             this.btn1.Name = "btn1";
             this.btn1.Size = new System.Drawing.Size(386, 96);
             this.btn1.TabIndex = 1;
@@ -55,7 +55,7 @@
             // 
             // btn2
             // 
-            this.btn2.Location = new System.Drawing.Point(15, 428);
+            this.btn2.Location = new System.Drawing.Point(12, 438);
             this.btn2.Name = "btn2";
             this.btn2.Size = new System.Drawing.Size(386, 93);
             this.btn2.TabIndex = 2;
@@ -65,7 +65,7 @@
             // 
             // btn3
             // 
-            this.btn3.Location = new System.Drawing.Point(12, 527);
+            this.btn3.Location = new System.Drawing.Point(12, 549);
             this.btn3.Name = "btn3";
             this.btn3.Size = new System.Drawing.Size(386, 96);
             this.btn3.TabIndex = 3;
@@ -77,13 +77,13 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(413, 603);
+            this.ClientSize = new System.Drawing.Size(412, 657);
             this.Controls.Add(this.btn3);
             this.Controls.Add(this.btn2);
             this.Controls.Add(this.btn1);
             this.Controls.Add(this.lblStory);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "CYOA: Ethical Edition";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 

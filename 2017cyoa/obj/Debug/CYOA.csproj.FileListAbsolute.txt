@@ -1,0 +1,10 @@
+C:\Users\james\source\repos\2017cyoa\2017cyoa\bin\Debug\2017cyoa.exe.config
+C:\Users\james\source\repos\2017cyoa\2017cyoa\bin\Debug\2017cyoa.exe
+C:\Users\james\source\repos\2017cyoa\2017cyoa\bin\Debug\2017cyoa.pdb
+C:\Users\james\source\repos\2017cyoa\2017cyoa\obj\Debug\CYOA.csprojAssemblyReference.cache
+C:\Users\james\source\repos\2017cyoa\2017cyoa\obj\Debug\_2017cyoa.Form1.resources
+C:\Users\james\source\repos\2017cyoa\2017cyoa\obj\Debug\_2017cyoa.Properties.Resources.resources
+C:\Users\james\source\repos\2017cyoa\2017cyoa\obj\Debug\CYOA.csproj.GenerateResource.cache
+C:\Users\james\source\repos\2017cyoa\2017cyoa\obj\Debug\CYOA.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\2017cyoa\2017cyoa\obj\Debug\2017cyoa.exe
+C:\Users\james\source\repos\2017cyoa\2017cyoa\obj\Debug\2017cyoa.pdb

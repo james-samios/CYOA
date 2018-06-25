@@ -30,11 +30,12 @@ namespace _2017cyoa
         // Create an array of our new data type.
         // remember to change the value in the [] 
         // to the number of lines in your text file
-        Room[] room = new Room[2]; 
+        Room[] room = new Room[20]; 
 
         public Form1()
         {
             InitializeComponent();
+            FormBorderStyle = FormBorderStyle.FixedSingle;
 
             // add the other buttons to the same event
             this.btn2.Click += btn1_Click;
